@@ -1,0 +1,14 @@
+.Perfil {
+    position: sticky;
+    
+    left: 110rem; /* Coloca el botón a 20px desde la izquierda */
+    width: 4rem;
+    height: 4rem;
+    background-color: #4CAF50;
+    border-radius: 50%;
+    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    
+    cursor: pointer;
+    margin: 20px;
+}
